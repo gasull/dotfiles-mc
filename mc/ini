@@ -1,5 +1,5 @@
 [Midnight-Commander]
-verbose=0
+verbose=1
 pause_after_run=2
 shell_patterns=1
 auto_save_setup=1
