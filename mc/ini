@@ -79,7 +79,7 @@ editor_backup_extension=~
 editor_filesize_threshold=64M
 mcview_eof=
 ignore_ftp_chattr_errors=true
-skin=default
+skin=/usr/share/mc/skins/modarcon16-defbg-thin.ini
 
 [Layout]
 message_visible=1
