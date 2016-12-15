@@ -80,7 +80,10 @@ editor_filesize_threshold=64M
 editor_stop_format_chars=-+*\\,.;:&>
 mcview_eof=
 ignore_ftp_chattr_errors=true
-skin=default
+#skin=default
+#skin=darkfar.ini
+# Added solarized.ini to /usr/share/mc/skins (does not work elsewhere)
+skin=solarized.ini
 
 [Layout]
 message_visible=1
@@ -128,7 +131,7 @@ navigate_with_arrows=true
 panel_scroll_pages=true
 mouse_move_pages=true
 filetype_mode=true
-permission_mode=true
+permission_mode=false
 torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
