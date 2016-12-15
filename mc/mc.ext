@@ -759,7 +759,7 @@ type/^Parity\ Archive\ Volume\ Set
 # Default target for anything not described above
 default/*
 	Open=see %f
-	View=%view{ascii} run-mailcap --action=cat %f
+	View=%view{ascii} run-mailcap --action=cat %f 2>&1
 
 
 ### EOF ###
