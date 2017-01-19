@@ -83,6 +83,7 @@ ignore_ftp_chattr_errors=true
 #skin=default
 #skin=darkfar.ini
 # Added solarized.ini to /usr/share/mc/skins (does not work elsewhere)
+# solarized.ini from https://github.com/iwfmp/mc-solarized-skin
 skin=solarized.ini
 
 [Layout]
