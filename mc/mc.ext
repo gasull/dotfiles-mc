@@ -761,5 +761,4 @@ default/*
 	Open=see %f
 	View=%view{ascii} run-mailcap --action=cat %f 2>&1
 
-
 ### EOF ###
